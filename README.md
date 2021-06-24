@@ -5,4 +5,4 @@ Given a real world scenario, the focus is to produce:
 * Design Document
 * Alloy Model (software based behavioural simulation of the final application)
 
-You can find the final documentation at: http delivery folder
+You can find the final documentation at: https://github.com/bertox94/PollaTiraboschi/tree/master/DeliveryFolder
